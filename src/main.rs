@@ -14,5 +14,6 @@ fn main(){
     // println!("the reversed string is : {result}");
     //readfile::readfile().unwrap();
     //clapcli::cliofcpi();
-    clapcli2::clapcli2();
+    // clapcli2::clapcli2();
+    todocli::todo();
 }

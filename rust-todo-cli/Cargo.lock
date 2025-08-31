@@ -708,6 +708,7 @@ dependencies = [
  "openssl",
  "postgres",
  "postgres-openssl",
+ "shlex",
 ]
 
 [[package]]
